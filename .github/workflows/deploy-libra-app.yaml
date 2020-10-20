@@ -1,7 +1,7 @@
 name: Deploy Libra App
 env:
    DEFAULT_LOCATION: uksouth
-   LIBRA_ALIAS: rd0108libra
+   LIBRA_ALIAS: rdg0108libra
 #on:
 #  push:
 #    paths:
